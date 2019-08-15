@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f74a2e1-4e6a-4378-9c27-30407246e4e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Plotting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port1.s2p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port2.s2p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port3.s2p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port4.s2p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port5.s2p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port6.s2p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cascade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cascade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s2p/1_2.s2p" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/s2p/8.s2p" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/s2p/PNA.s2p" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/s2p/PowerMeter.s2p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cascade.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="234">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -40,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="198">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -52,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1931">
+            <state relative-caret-position="128">
               <caret line="167" selection-start-line="167" selection-end-line="167" />
             </state>
           </provider>
@@ -61,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plotting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="126">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="38" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -82,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="5544">
               <caret line="309" selection-start-line="309" selection-end-line="309" />
             </state>
           </provider>
@@ -91,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/network.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="12168">
               <caret line="711" selection-start-line="711" selection-end-line="711" />
             </state>
           </provider>
@@ -100,7 +89,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/frequency.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="8982">
               <caret line="503" selection-start-line="503" selection-end-line="503" />
             </state>
           </provider>
@@ -109,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/artist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="18630">
               <caret line="1049" column="36" selection-start-line="1049" selection-start-column="36" selection-end-line="1049" selection-end-column="36" />
             </state>
           </provider>
@@ -146,11 +135,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -158,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,6 +163,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565803870334</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update">
+      <created>1565874886427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565874886427</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -325,9 +321,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.17426273" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.17627347" />
       <window_info id="Structure" order="1" sideWeight="0.50281423" side_tool="true" weight="0.08227345" />
       <window_info id="Favorites" order="2" sideWeight="0.50476193" side_tool="true" weight="0.12466488" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49960256" weight="0.32946634" />
@@ -336,11 +333,11 @@
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.31160572" side_tool="true" weight="0.18097448" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49960256" weight="0.5305491" />
-      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.6883378" visible="true" weight="0.39609483" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" sideWeight="0.6883378" visible="true" weight="0.39609483" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49880764" weight="0.32869297" />
-      <window_info anchor="bottom" x="0" y="0" width="1536" height="834" id="Run" order="10" sideWeight="0.3116622" side_tool="true" visible="true" weight="0.39609483" />
+      <window_info anchor="bottom" x="0" y="0" width="1536" height="834" id="Run" order="10" sideWeight="0.3116622" side_tool="true" weight="0.39609483" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.4944356" weight="0.32869297" />
       <window_info anchor="right" id="R Packages" order="0" />
       <window_info anchor="right" id="R Graphics" order="1" />
@@ -366,23 +363,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Cascade.py</url>
-          <line>34</line>
+          <line>35</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Cascade.py</url>
-          <line>6</line>
+          <line>7</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scratch.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="22" />
+          <url>file://$PROJECT_DIR$/Cascade.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Cascade.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="23" />
+          <url>file://$PROJECT_DIR$/scratch.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scratch.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -425,24 +427,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="711" selection-start-line="711" selection-end-line="711" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/port1.s2p">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/frequency.py">
+    <entry file="file://$PROJECT_DIR$/Plotting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="503" selection-start-line="503" selection-end-line="503" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/artist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1049" column="36" selection-start-line="1049" selection-start-column="36" selection-end-line="1049" selection-end-column="36" />
+        <state relative-caret-position="126">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -453,47 +447,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/port1.s2p">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="5544">
           <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Plotting.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/network.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="12168">
+          <caret line="711" selection-start-line="711" selection-end-line="711" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8982">
+          <caret line="503" selection-start-line="503" selection-end-line="503" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18630">
+          <caret line="1049" column="36" selection-start-line="1049" selection-start-column="36" selection-end-line="1049" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cascade.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="30" />
+        <state relative-caret-position="234">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1931">
-          <caret line="167" selection-start-line="167" selection-end-line="167" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="198">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
