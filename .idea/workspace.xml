@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f74a2e1-4e6a-4378-9c27-30407246e4e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Plotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port1.s2p" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port2.s2p" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port3.s2p" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port4.s2p" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port5.s2p" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port6.s2p" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scratch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cascade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cascade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2p/1_2.s2p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2p/8.s2p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2p/PNA.s2p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2p/PowerMeter.s2p" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,32 +25,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cascade.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="308">
+              <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="30" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scratch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/pyplot.py">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="2933" column="27" selection-start-line="2933" selection-start-column="18" selection-end-line="2933" selection-end-column="27" />
+            <state relative-caret-position="1931">
+              <caret line="167" selection-start-line="167" selection-end-line="167" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/axes/_base.py">
+        <entry file="file://$PROJECT_DIR$/Plotting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="105" selection-start-line="105" selection-end-line="105" />
+            <state relative-caret-position="306">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,6 +84,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
               <caret line="309" selection-start-line="309" selection-end-line="309" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="711" selection-start-line="711" selection-end-line="711" />
             </state>
           </provider>
         </entry>
@@ -103,7 +140,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Plotting.py" />
         <option value="$PROJECT_DIR$/Cascade.py" />
+        <option value="$PROJECT_DIR$/scratch.py" />
       </list>
     </option>
   </component>
@@ -163,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="Cascade" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Touchstone" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,8 +245,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Touchstone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\slevesqu\PycharmProjects\Touchstone\Touchstone\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.Cascade" />
       </list>
     </recent_temporary>
@@ -244,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565797822014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update">
+      <created>1565803870334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565803870334</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -259,20 +327,20 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.34115282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.17426273" />
       <window_info id="Structure" order="1" sideWeight="0.50281423" side_tool="true" weight="0.08227345" />
       <window_info id="Favorites" order="2" sideWeight="0.50476193" side_tool="true" weight="0.12466488" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49960256" weight="0.32946634" />
       <window_info anchor="bottom" id="Python Console" order="1" sideWeight="0.43720192" weight="0.44160867" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49244833" weight="0.49342614" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="3" sideWeight="0.3947721" side_tool="true" visible="true" weight="0.35146442" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.31160572" side_tool="true" weight="0.18097448" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49960256" weight="0.5305491" />
-      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.6052279" visible="true" weight="0.35146442" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.6883378" visible="true" weight="0.39609483" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49880764" weight="0.32869297" />
-      <window_info anchor="bottom" x="0" y="0" width="1536" height="834" id="Run" order="10" sideWeight="0.39387918" side_tool="true" weight="0.38283062" />
+      <window_info anchor="bottom" x="0" y="0" width="1536" height="834" id="Run" order="10" sideWeight="0.3116622" side_tool="true" visible="true" weight="0.39609483" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.4944356" weight="0.32869297" />
       <window_info anchor="right" id="R Packages" order="0" />
       <window_info anchor="right" id="R Graphics" order="1" />
@@ -292,19 +360,29 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Cascade.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Cascade.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/artist.py</url>
           <line>1483</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Cascade.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Cascade.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scratch.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Cascade.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -319,13 +397,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.s2p" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="167" selection-start-line="167" selection-end-line="167" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31518">
@@ -333,31 +404,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3600">
-          <caret line="235" column="15" selection-start-line="235" selection-start-column="11" selection-end-line="235" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/plotting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13068">
           <caret line="739" column="29" selection-start-line="739" selection-start-column="20" selection-end-line="739" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/artist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1049" column="36" selection-start-line="1049" selection-start-column="36" selection-end-line="1049" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -375,10 +425,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/network.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        <state relative-caret-position="152">
+          <caret line="711" selection-start-line="711" selection-end-line="711" />
         </state>
       </provider>
     </entry>
@@ -389,12 +439,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cascade.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/artist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="18">
+          <caret line="1049" column="36" selection-start-line="1049" selection-start-column="36" selection-end-line="1049" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/port1.s2p">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cascade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skrf/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1931">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
