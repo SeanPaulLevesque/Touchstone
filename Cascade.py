@@ -30,7 +30,7 @@ for chan in range(1,7):
     trace.plot_s_db(m=0, n=1, label='trace')
     cable.plot_s_db(m=0, n=1, label='cable')
 
-    # deembed
+    # cascade
     total = trace ** cable
     total.plot_s_db(label='total')
 
